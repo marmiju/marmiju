@@ -3,7 +3,7 @@
 ### 🧠 My Competitive Programming Profiles:
 <!-- LeetCode Badge -->
 <div style="display: flex; justify-item:center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=marmiju" alt="LeetCode Badge"  />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=marmiju&theme=dark" alt="LeetCode Badges" />
   <a href="https://leetcode.com/marmiju" target="_blank" rel="noopener noreferrer">
     <img src="https://leetcard.jacoblin.cool/marmiju?theme=light&font=baloo&ext=contest" alt="LeetCode Stats" />
   </a>
